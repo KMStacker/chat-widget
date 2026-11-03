@@ -34,3 +34,10 @@ Thumbs.db
 # Docker and local storage volumes
 postgres_data/
 ollama_data/
+/src/generated/prisma
+
+# Prisma CLI and editor agent skills
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
